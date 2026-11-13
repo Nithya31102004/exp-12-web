@@ -1,7 +1,7 @@
 # EXP 12 – Simple Single Page Application (SPA) Using React
 
 **NAME:** Nithya T  
-**REG NO:** 23050010123
+**REG NO:** 2305001023
 
 ## Aim
 
